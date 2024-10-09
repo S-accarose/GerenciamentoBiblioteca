@@ -1,0 +1,14 @@
+C:\git\GerencimentoBiblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\GerencimentoBiblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+C:\git\GerencimentoBiblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+C:\git\GerencimentoBiblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\git\GerencimentoBiblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.exe
+C:\git\GerencimentoBiblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
+C:\git\GerencimentoBiblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.runtimeconfig.json
+C:\git\GerencimentoBiblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
+C:\git\GerencimentoBiblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
+C:\git\GerencimentoBiblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
+C:\git\GerencimentoBiblioteca\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
+C:\git\GerencimentoBiblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
+C:\git\GerencimentoBiblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.genruntimeconfig.cache
+C:\git\GerencimentoBiblioteca\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
