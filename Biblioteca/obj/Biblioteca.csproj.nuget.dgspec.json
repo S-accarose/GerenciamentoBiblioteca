@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\GerencimentoBiblioteca\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\Alunos\\OneDrive\\Área de Trabalho\\git - iz\\GerenciamentoBiblioteca\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\git\\GerencimentoBiblioteca\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\Alunos\\OneDrive\\Área de Trabalho\\git - iz\\GerenciamentoBiblioteca\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\GerencimentoBiblioteca\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Área de Trabalho\\git - iz\\GerenciamentoBiblioteca\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\git\\GerencimentoBiblioteca\\Biblioteca\\Biblioteca.csproj",
-        "packagesPath": "C:\\Users\\lo852\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\GerencimentoBiblioteca\\Biblioteca\\obj\\",
+        "projectPath": "C:\\Users\\Alunos\\OneDrive\\Área de Trabalho\\git - iz\\GerenciamentoBiblioteca\\Biblioteca\\Biblioteca.csproj",
+        "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alunos\\OneDrive\\Área de Trabalho\\git - iz\\GerenciamentoBiblioteca\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lo852\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
